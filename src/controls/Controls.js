@@ -15,5 +15,4 @@ const Controls = props => {
   );
 };
 
-
 export default Controls;
